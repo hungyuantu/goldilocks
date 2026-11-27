@@ -1,22 +1,17 @@
-THIRD-PARTY NOTICES
-
-Goldilocks incorporates the following third-party material.
-
-----------------------------------------------------------------------------------------------------
-
-Source: hyph-en-us.tex from hyph-utf8 (https://ctan.org/pkg/hyph-utf8)
+--- hyph-utf8 --------------------------------------------------------------------------------------
+Source: hyph-en-us.tex (ctan.org/pkg/hyph-utf8)
+Covers: cases, rules
 
     Copyright (C) 1990, 2004, 2005 Gerard D.C. Kuiken
 
     Copying and distribution of this file, with or without modification, are permitted in any medium
     without royalty provided the copyright notice and this notice are preserved.
 
-----------------------------------------------------------------------------------------------------
 
-Source: single.txt, crosswd.txt from Moby Word II (https://www.gutenberg.org/ebooks/3201)
+--- Moby Word II -----------------------------------------------------------------------------------
+Source: single.txt, crosswd.txt (www.gutenberg.org/ebooks/3201)
+Covers: words
 
     Author: Grady Ward
 
     Public Domain material by grant from the author, January, 2001.
-
-----------------------------------------------------------------------------------------------------
